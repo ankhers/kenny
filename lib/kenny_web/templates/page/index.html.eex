@@ -1,0 +1,5 @@
+<p>
+    status: <span id="status"></span>
+</p>
+
+<button id="start" disabled="disabled">Start</button>
